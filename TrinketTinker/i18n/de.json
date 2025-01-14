@@ -1,0 +1,7 @@
+{
+    "$schema": "https://smapi.io/schemas/i18n.json",
+    "b-c.trinket-colorizer.name": "Schmuckstückfärber",
+    "b-c.trinket-colorizer.description": "Ermöglicht die Umfärbung von Schmuckstücken, wodurch das Aussehen geändert wird. Kostet pro Benutzung 15 Omni-Geoden.",
+    "b-c.trinket-colorizer.invalid-count": "Benötigt 15 Omni-Geoden.",
+    "b-c.trinket-colorizer.no-recolor": "Dieses Schmuckstück kann nicht umgefärbt werden.",
+}
